@@ -1,0 +1,15 @@
+{
+  "name": "Ritmo · Diario de entrenamiento",
+  "short_name": "Ritmo",
+  "description": "Tu rutina y progreso de entrenamiento, con datos guardados en tu dispositivo.",
+  "lang": "es-ES",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6fc",
+  "theme_color": "#3949ab",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
